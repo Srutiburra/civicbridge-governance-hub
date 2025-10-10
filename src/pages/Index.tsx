@@ -17,8 +17,7 @@ export default function CivicBridgeLandingPage() {
             Empower citizens to submit, track, and follow up on grievances seamlessly.
           </p>
           <a
-            href="https://grm-openvoice-jade.vercel.app/"
-            target="_blank"
+            href="https://voice-citizen-connect.lovable.app/"
             className="inline-block bg-green-600 text-white px-4 py-2 rounded-xl hover:bg-green-700"
           >
             Launch CivicBridge
