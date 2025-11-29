@@ -27,9 +27,9 @@ export default function CivicBridgeLandingPage() {
           {/* Scrollable Content */}
           <div className="h-full overflow-y-auto pt-12 pb-6 px-5 bg-gradient-to-b from-slate-50 to-white">
             <header className="text-center mb-6 pt-4">
-              <h1 className="text-3xl font-bold text-blue-800 mb-2">Citizen Grievance System</h1>
+              <h1 className="text-3xl font-bold text-blue-800 mb-2">CivicBridge</h1>
               <p className="text-sm text-gray-600 leading-relaxed">
-                A unified digital platform for seamless grievance submission, tracking, and resolution
+                A unified digital ecosystem for citizen grievance redressal and governance insights
               </p>
             </header>
 
@@ -44,7 +44,7 @@ export default function CivicBridgeLandingPage() {
                   href="https://voice-citizen-connect.lovable.app/"
                   className="block bg-green-600 text-white px-5 py-3 rounded-xl hover:bg-green-700 transition-colors text-center font-medium active:scale-95"
                 >
-                  Launch Citizen Portal
+                  Launch CivicBridge
                 </a>
               </div>
 
@@ -80,7 +80,7 @@ export default function CivicBridgeLandingPage() {
             </section>
 
             <footer className="mt-8 text-center text-gray-500 text-xs">
-              © {new Date().getFullYear()} Citizen Grievance System • Built for inclusive governance
+              © {new Date().getFullYear()} CivicBridge • Built for inclusive governance
             </footer>
           </div>
         </div>
